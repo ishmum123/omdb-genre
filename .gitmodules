@@ -4,3 +4,6 @@
 [submodule "omdb-genre-spring"]
 	path = omdb-genre-spring
 	url = https://github.com/ishmum123/omdb-genre-spring.git
+[submodule "omdb-scraper"]
+	path = omdb-scraper
+	url = https://github.com/ishmum123/omdb-scraper.git
