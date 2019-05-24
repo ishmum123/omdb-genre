@@ -1,0 +1,6 @@
+[submodule "omdb-genre-angular"]
+	path = omdb-genre-angular
+	url = https://github.com/ishmum123/omdb-genre-angular
+[submodule "omdb-genre-spring"]
+	path = omdb-genre-spring
+	url = https://github.com/ishmum123/omdb-genre-spring.git
